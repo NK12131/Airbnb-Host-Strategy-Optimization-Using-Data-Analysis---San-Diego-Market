@@ -1,0 +1,2 @@
+# Airbnb-Host-Strategy-Optimization-Using-Data-Analysis---San-Diego-Market
+Analyzed San Diego Airbnb listings, calendar, and review data to uncover pricing patterns, seasonal fluctuations, and neighborhood-level demand. Identified key amenity and local host effects on ratings and booking rates, equipping hosts with actionable revenue strategies and guiding investors toward high-profitability markets.
